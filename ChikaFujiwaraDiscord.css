@@ -1,5 +1,3 @@
-//META{"name":"Chika Fujiwara","description":"Test edition","author":"Bluetodark","version":"Auto Update"}*//
-
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 .buttonContainer-KtQ8wc,.markup-2BOw-j code,.theme-dark .markup-2BOw-j {
@@ -17,10 +15,10 @@
 
 :root {
 	--bgImage: url(https://raw.githubusercontent.com/BluetoDark/Chika_DC_Theme/master/Images/chika_right.png);
-    --HomeButtonImg: url(https://raw.githubusercontent.com/BluetoDark/Chika_DC_Theme/master/Images/logo.gif);
-    --brightness: 0.6;
-    --PrimaryColor01: #2424ff;
-    --PrimaryColorRGBA: rgba(36,36,255,.15);
+    	--HomeButtonImg: url(https://raw.githubusercontent.com/BluetoDark/Chika_DC_Theme/master/Images/logo.gif);
+    	--brightness: 0.6;
+    	--PrimaryColor01: #2424ff;
+    	--PrimaryColorRGBA: rgba(36,36,255,.15);
 	--customFont: 'Montserrat';
 	--PrimaryColor02: #07a8c5;
 	--links: #3366ff;
